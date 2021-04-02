@@ -31,19 +31,19 @@ in no way "bulletproof", but it helps is a few scenarios.
 import os, time, sys
 
 while True:
-	try:
-		os.system("./start.sh")
-		print("Restarting in 3...")
-		print("Press Control-C to abort")
-		time.sleep(1)
-		print("2...")
-		time.sleep(1)
-		print("1...")
-		time.sleep(1)
-	except KeyboardInterrupt:
-		break
-	except:
-		pass
+    try:
+        os.system("./start.sh")
+        print("Restarting in 3...")
+        print("Press Control-C to abort")
+        time.sleep(1)
+        print("2...")
+        time.sleep(1)
+        print("1...")
+        time.sleep(1)
+    except KeyboardInterrupt:
+        break
+    except:
+        pass
 
 print("Aborted!")
 ```
