@@ -1,6 +1,6 @@
 ---
 name: Knowledge request
-about: Request that an page be written on a topic
+about: Request that a page be written on a topic
 title: ''
 labels: request
 assignees: ''
@@ -11,7 +11,7 @@ Please ask yourself if your request will help five or more people. If the answer
 is no, but you still need your request fulfilled, please consider donating to 
 https://github.com/sponsors/leviem1 for guaranteed service. -->
 
-**Describe the problem or topic you'd like assistance with*  
+**Describe the problem or topic you'd like assistance with**  
 A clear and concise description of what you need help with.
 
 **Describe alternatives you've considered**  
