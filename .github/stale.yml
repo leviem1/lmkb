@@ -1,0 +1,9 @@
+daysUntilStale: 14
+daysUntilClose: 21
+staleLabel: stale
+markComment: >
+  This issue has been automatically marked as overdue because it has not had
+  recent activity. Thank you for your contributions.
+closeComment: >
+  This issue has been closed because it has not had
+  recent activity. Thank you for your contributions.
