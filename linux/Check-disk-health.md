@@ -9,8 +9,8 @@ sudo smartctl -a <device>
 ```
 
 ## Badblocks
-The `badblocks` utility will help you find the location and amount of bad sectors on your disk. This can
-be used to tell if a hard drive is close to failing.
+The `badblocks` utility will help you find the location and amount of bad sectors on your disk. This
+can be used to tell if a hard drive is close to failing.
 
 ```bash
 sudo badblocks -v <device>
