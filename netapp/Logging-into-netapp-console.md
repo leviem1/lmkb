@@ -11,3 +11,22 @@ into. This is only informational as it took me a long time to figure this out.
 
 **BEWARE:** After that, you can run commands like `sysWipe` to restore the system. Management through
 the appliance manager program is preferred.
+
+## Resetting configuration
+Here are some helpful commands for resetting the NetApp configuration.
+
+Reset the SYMbol password
+```bash
+clearSYMbolPassword
+```
+
+Reset the storage configuration
+```bash
+clearStorageArray configuration all
+setStorageArray resetConfiguration=true
+```
+
+Reset the device configuration
+```bash
+sysWipe
+```
