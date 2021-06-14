@@ -1,6 +1,6 @@
 # Launching JNLP Files
 JNLP is a commonly used file type in KVMs and iDRAC. There are many other uses as well as it's
-a very robust protocol. After Java 11, it seems that Java no longer ships with the Java Web 
+a very robust protocol. After Java 11, it seems that Java no longer ships with the Java Web
 Start binary. These are the steps I've used to run these files today.
 
 ## Install IcedTea-Web
