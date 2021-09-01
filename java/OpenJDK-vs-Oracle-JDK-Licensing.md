@@ -16,7 +16,7 @@ There are many vendors in addition to Oracle that distribute their own implement
 OpenJDK. Support and production-readiness vary between vendors.
 
 Some honorable mentions include:
-- [Amazon Correto](https://aws.amazon.com/corretto/)
+- [Amazon Corretto](https://aws.amazon.com/corretto/)
 - [Azul Zulu](https://www.azul.com/downloads/?package=jdk#download-openjdk)
 
 ***This information is for reference only. Please contact Oracle for more information.***
