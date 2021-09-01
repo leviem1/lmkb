@@ -2,8 +2,8 @@
 
 After Java 8, Oracle changed the terms in which it distributes its Java Development Kit (JDK).
 Oracle has supported the OpenJDK project for years, which is distributed under the GNU GPLv2,
-w/ Classpath Exeception. Here are the primary differences between these distributions as of 
-Java 11. 
+w/ Classpath Exception. Here are the primary differences between these distributions as of
+Java 11.
 
 | | OpenJDK | Oracle JDK |
 | --- | --- | --- |
