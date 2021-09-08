@@ -5,4 +5,4 @@ for things like IDE files. You can create a global ignore which will apply to al
 access as your user.
 
 Here's the command to do it:  
-`git congig --global core.excludesfile <filename>`
+`git config --global core.excludesfile <filename>`
