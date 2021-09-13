@@ -12,5 +12,9 @@ Run the JNLP using the following command
 ```batch
 "C:\Path\to\IcedTea-Web\javaws.exe" -nosecurity "C:\Path\to\file.jnlp"
 ```
-
 **Warning**: Use the `-nosecurity` flag at your own risk!
+
+Example:
+```batch
+"C:\Program Files\IcedTeaWeb\WebStart\bin\javaws.exe" -nosecurity "%HOMEPATH%\Downloads\viewer.jnlp"
+```
