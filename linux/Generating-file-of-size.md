@@ -2,8 +2,8 @@
 
 Creating a large file may be needed in various test scenarios. Here's how to do so in Linux.
 
-`fallocate -L <size> <filename>`
+`fallocate -L <size> <bytes>`
 
 Alternative:
 
-`dd if=/dev/zero of=<filename> bs=4k iflag=fullblock,countbytes count <size>`
+`dd if=/dev/zero of=<filename> bs=4k iflag=fullblock,count_bytes count=<bytes>`
