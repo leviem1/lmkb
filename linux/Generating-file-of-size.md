@@ -2,7 +2,7 @@
 
 Creating a large file may be needed in various test scenarios. Here's how to do so in Linux.
 
-`fallocate -L <size> <bytes>`
+`fallocate -L <bytes> <filename>`
 
 Alternative:
 
