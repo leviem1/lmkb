@@ -1,2 +1,2 @@
 # lmkb
-Knowledge base for myself and possibly others
+Knowledge base to help me (and possibly others) learn from my mistakes.
